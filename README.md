@@ -54,7 +54,7 @@ Detects 80+ object classes in real-time while displaying live system performance
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/princesingh1702/Real-Time-Object-Detection-System.git
+git clone https://github.com/princesingh-ai-dev/Real-Time-Object-Detection-System.git
 cd Real-Time-Object-Detection-System
 
 # 2. Create virtual environment
